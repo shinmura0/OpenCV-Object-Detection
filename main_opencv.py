@@ -11,7 +11,7 @@ class detection:
         self.img_ratio = 80/640
 
         self.fps = ""
-        self.vidfps = 15
+        self.vidfps = 20
         self.elapsedTime = 0
         self.message = "Push [p] to take a background picture."
         self.flag_detection = False
